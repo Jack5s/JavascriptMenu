@@ -1,7 +1,8 @@
 <h1>mymenu.js</h1>
-This file is to create expentable or collapsable menu using custom tag ```<my-menu>``` and ```<my-menu-header>``` based on javascript
-(https://github.com/Jack5s/JavascriptMenu/Image/expand.png)
-(https://github.com/Jack5s/JavascriptMenu/Image/collapse.png)
+<pre><xmp>This file is to create expentable or collapsable menu using custom tag <my-menu> and <my-menu-header> based on javascript</xmp></pre>
+<h2>Menu</h2>
+(https://github.com/Jack5s/JavascriptMenu/blob/master/Image/expand.png)
+(https://github.com/Jack5s/JavascriptMenu/blob/master/Image/collapse.png)
 <h2>Html</h2>
 ```
 <html lang="en">
