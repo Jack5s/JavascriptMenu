@@ -1,5 +1,5 @@
 <h1>mymenu.js</h1>
-This file is to create expentable or collapsable menu using custom tag```<my-menu>and<my-menu-header>```
+This file is to create expentable or collapsable menu using custom tag <my-menu>and<my-menu-header>
 
 <h2>Html</h2>
 ```
