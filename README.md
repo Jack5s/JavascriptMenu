@@ -5,6 +5,7 @@ This file is to create expentable or collapsable menu using custom tag my-menu a
 <h2>Collapse Menu</h2>
 <img src="https://github.com/Jack5s/JavascriptMenu/blob/master/Image/collapse.png"/>
 <h2>HTML</h2> 
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
