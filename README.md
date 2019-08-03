@@ -30,7 +30,7 @@ This file is to create expentable or collapsable menu using custom tag my-menu a
     <p>It is also a paragraph2</p>
 </my-menu>
 <script src="../JS/jquery.js"></script>
-<script src="../JS/MyJS/mymenu.js"></script>
+<script src="../JS/mymenu.js"></script>
 </body>
 </html>
 ```
