@@ -28,9 +28,10 @@ This file is to create expentable or collapsable menu using custom tag my-menu a
         <p>It is also a paragraph2</p>
     </my-menu>
 </my-menu>
-
-<script src="https://raw.githack.com/Jack5s/JavascriptMenu/master/web/JS/jquery.js"></script>
-<script src="../JS/mymenu.js"></script>
+<script src="../JS/jquery.js"></script>
+<script src="https://raw.githack.com/Jack5s/JavascriptMenu/master/web/JS/mymenu.js"></script>
+</body>
+</html>
 </body>
 </html>
 ```
