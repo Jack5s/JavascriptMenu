@@ -27,6 +27,11 @@ $(function () {
                 svgStr = "<svg style='height: " + height + "px;width: " + svgWidth + "px'><g><path d='M" + offset + "," + yPosition + " l" + size + "," + size + " l-" + size + "," + size + "Z' style='fill:" + fillColor + ";stroke-width:0'/></g></svg>"
                 $(this).children().not("my-menu-header").css("display", "none");
                 break;
+            default:
+                $(this).attr("expandState","expand");
+                svgStr = "<svg style='height: " + height + "px;width: " + svgWidth + "px'><g><path d='M" + offset + "," + semiHeight + " l" + (2 * size) + ",0 l-" + size + "," + size + "Z' style='fill:" + fillColor + ";stroke-width:0'/></g></svg>"
+                $(this).children().not("my-menu-header").css("display", "block");
+                break;
         }
         if ($(this).children().not("my-menu-header").length > 0) {
             header.prepend(svgStr);
