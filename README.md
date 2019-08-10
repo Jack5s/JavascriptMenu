@@ -21,6 +21,13 @@ Link for the sample: <a href="https://jack5s.github.io/JavascriptMenu/web/HTML/t
     </my-menu-header>
     <p>It is a paragraph</p>
     <p>It is also a paragraph</p>
+    <my-menu expandState="collapse" id="menu2">
+        <my-menu-header height="100">
+            <div>Title2</div>
+        </my-menu-header>
+        <p>It is a paragraph2</p>
+        <p>It is also a paragraph2</p>
+    </my-menu>
     <my-menu expandState="expand" id="menu2">
         <my-menu-header height="100">
             <div>Title2</div>
@@ -29,10 +36,32 @@ Link for the sample: <a href="https://jack5s.github.io/JavascriptMenu/web/HTML/t
         <p>It is also a paragraph2</p>
     </my-menu>
 </my-menu>
+<my-menu expandState="collapse">
+    <my-menu-header height="100">
+        <div>Title</div>
+    </my-menu-header>
+    <p>It is a paragraph</p>
+    <p>It is also a paragraph</p>
+    <my-menu expandState="collapse" id="menu2">
+        <my-menu-header height="100">
+            <div>Title2</div>
+        </my-menu-header>
+        <p>It is a paragraph2</p>
+        <p>It is also a paragraph2</p>
+    </my-menu>
+    <my-menu expandState="collapse" id="menu2">
+        <my-menu-header height="100">
+            <div>Title2</div>
+        </my-menu-header>
+        <p>It is a paragraph2</p>
+        <p>It is also a paragraph2</p>
+    </my-menu>
+</my-menu>
 <script src="../JS/jquery.js"></script>
-<script src="https://raw.githack.com/Jack5s/JavascriptMenu/master/web/JS/mymenu.js"></script>
-</body>
-</html>
+<script src="../JS/mymenu.js"></script>
+<!--<script src="https://raw.githack.com/Jack5s/JavascriptMenu/master/web/JS/jquery.js"></script>-->
+<!--<script src="https://raw.githack.com/Jack5s/JavascriptMenu/master/web/JS/mymenu.js"></script>-->
+
 </body>
 </html>
 ```
