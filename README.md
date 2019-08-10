@@ -1,6 +1,7 @@
 <h1>mymenu.js</h1>
 This file is to create expentable or collapsable menu using custom tag my-menu and my-menu-header based on javascript
-Link for the sample: <a href="https://jack5s.github.io/JavascriptMenu/web/HTML/testMyMenu.html">https://jack5s.github.io/JavascriptMenu/web/HTML/testMyMenu.html</a>
+Link for the sample:
+<a href="https://jack5s.github.io/JavascriptMenu/web/HTML/testMyMenu.html">https://jack5s.github.io/JavascriptMenu/web/HTML/testMyMenu.html</a>
 <h2>Expand Menu</h2>
 <img src="https://github.com/Jack5s/JavascriptMenu/blob/master/Image/expand.png"/>
 <h2>Collapse Menu</h2>
